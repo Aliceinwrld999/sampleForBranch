@@ -1,3 +1,5 @@
 Number two file
 
 Its for alice
+
+ハッシュ値で特定のブランチに戻って、この文章を書き足しました。
